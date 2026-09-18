@@ -1,0 +1,23 @@
+# CODEOWNERS — PLACEHOLDER, NOT YET CONFIGURED
+#
+# TODO: replace the placeholders below with real GitHub usernames or teams.
+# Ownership rules only take effect once real owners are listed.
+#
+# Syntax: <path pattern> <@owner> [@owner ...]
+
+# Default owner for everything in the repo
+# *                                  @TODO-owner
+
+# Data Vault 2.0 standards are the source of truth — TODO: consider a stricter owner
+# /docs/standards/data-vault-modeling.md   @TODO-vault-owner
+# /docs/standards/                         @TODO-standards-owner
+
+# Vault architecture and modeling ADRs
+# /docs/architecture/                @TODO-architecture-owner
+
+# Process docs
+# /docs/process/                     @TODO-process-owner
+
+# Agent-facing files
+# /AGENTS.md                         @TODO-owner
+# /skills/                           @TODO-owner
